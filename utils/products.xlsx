@@ -1,4 +1,0 @@
-[
-  { ProductID: 101, Product: 'Laptop', Price: 800 },
-  { ProductID: 102, Product: 'Mouse', Price: 25 }
-]

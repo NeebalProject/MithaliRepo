@@ -1,4 +1,0 @@
-[
-  { ID: 1, Name: 'John', Department: 'QA' },
-  { ID: 2, Name: 'Alice', Department: 'HR' }
-]
